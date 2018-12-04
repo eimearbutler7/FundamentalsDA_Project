@@ -8,4 +8,4 @@ To run this document you must have installed software to run python code (https:
 
 By running each cell in succession, it will generate a dataframe of randomly generated numbers that are somewhat reflective of real life real estate sales data. 
 
-The dataset connected with this jupyter notebook is saved in this GitHUB Repository and must be used. Unfortunately a direct connection to the raw data could not be established. 
+The dataset connected with this jupyter notebook is saved in this GitHUB Repository and must be used. Unfortunately a direct connection to the raw data could not be established (https://data.unicef.org/topic/child-health/immunization/). 
